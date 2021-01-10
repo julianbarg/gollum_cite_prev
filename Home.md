@@ -2,4 +2,4 @@
 bibliography: 'bibliography.bib'
 ---
 
-Bem2003
+@Bem2003
